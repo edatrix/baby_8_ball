@@ -1,5 +1,8 @@
 require 'spec_helper'
 
 describe Response do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it "is not valid without a title" do
+    response = Response.new(title: nil)
+    response.should_not be_valid
+  end
 end
