@@ -14,7 +14,7 @@ class ResponsesController < ApplicationController
   end
 
   def show
-    @response = Response.random_response
+    @response = Response.find(params[:id])
   end
 
 end
