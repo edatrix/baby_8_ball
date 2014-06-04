@@ -1,9 +1,19 @@
-<h1>baby's responses will go here</h1>
+<h1>all of baby's responses</h1>
 
-<body>
-  <% @responses.each do |response| %>
-    <%= response.title %>
-    <%= response.description %>
-    <%= response.image %>
-  <% end %>
-  </body>
+<table>
+  <thead>
+    <tr>
+      <th>title</th>
+      <th>description</th>
+      <th>image</th><table>
+  </thead>
+  <tbody>
+    <% @responses.each do |response| %>
+      <tr>
+        <td><%= response.title %></td>
+        <td><%= response.description %></td>
+        <td><%= response.image %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
