@@ -1,5 +1,5 @@
 responses = [ {name: "skeptical", description: "i'm not sure you really want to know the answer to this question.", image: ""},
-  {name: "absolutely", description: "without a doubt.", image: ""},
+  {name: "absolutely", description: "without a doubt.", image: "mommy.jpg"},
   {name: "no", description: "this is a joke, right?", image: ""},
   {name: "poop", description: "hang on, i'm pooping.", image: ""},
   {name: "bored", description: "please bore someone else with your dull question.", image: ""},

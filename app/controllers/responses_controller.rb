@@ -1,6 +1,14 @@
 class ResponsesController < ApplicationController
   include ResponsesHelper
 
+  def home
+    if Response.all.any?
+      @response = Response.random_response
+    else
+      render "error"
+    end
+  end
+
   def index
     @responses = Response.all
   end

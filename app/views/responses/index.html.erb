@@ -1,1 +1,9 @@
 <h1>baby's responses will go here</h1>
+
+<body>
+  <% @responses.each do |response| %>
+    <%= response.title %>
+    <%= response.description %>
+    <%= response.image %>
+  <% end %>
+  </body>
