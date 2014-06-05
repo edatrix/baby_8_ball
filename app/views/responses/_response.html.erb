@@ -1,2 +1,2 @@
-<%= image_tag "#{@response.image}" %>
+<%= image_tag @response.image.url(:medium) %>
 <%= @response.description %>
