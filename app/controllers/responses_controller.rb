@@ -17,4 +17,8 @@ class ResponsesController < ApplicationController
     @response = Response.find(params[:id])
   end
 
+  def create
+    @response = Response.create(user_params)
+  end
+
 end
