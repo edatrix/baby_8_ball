@@ -13,7 +13,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-group, :test, :development do
+group :test, :development do
   gem 'sqlite3'
   gem 'rspec-rails'
   gem 'better_errors'
