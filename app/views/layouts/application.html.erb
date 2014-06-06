@@ -2,16 +2,24 @@
 <html>
 <head>
   <title>Baby8Ball</title>
+  <link href='http://fonts.googleapis.com/css?family=Comfortaa:400,700|Luckiest+Guy' rel='stylesheet' type='text/css'>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
 </head>
 
-<h1>Baby 8 Ball</h1>
-
 <body>
+  <header class="app_header">Baby<img src="https://lh3.ggpht.com/FtU-SKU2azQYwPL9PzCPkfh2AxhWdTM2yM8zsl35p6oueAUeBNb4fBBMdA-zG9u99Y0=w170"/>Ball</header>
 
-<%= yield %>
+  <div class="main">
+    <%= yield %>
 
+    <footer>
+      <div class="footer">
+        <p>baby 8 ball</p>
+        <p>a project by lauren spath luhring</p>
+      </div>
+    </footer>
+  </div>
 </body>
 </html>

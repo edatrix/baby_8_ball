@@ -11,3 +11,15 @@
  *= require_self
  *= require_tree .
  */
+
+.app_header {
+  font-family: "Luckiest Guy";
+  font-size: 60px;
+  text-align: center;
+  padding: 10px;
+}
+
+.main {
+  text-align: center;
+  padding: 10px;
+}
