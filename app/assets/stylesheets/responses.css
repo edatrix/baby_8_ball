@@ -2,11 +2,13 @@
   width: 700px;
   height: 700px;
   border-radius: 2050px;
-  font-size: 20px;
-  color: #fff;
-  line-height: 100px;
-  text-align: center;
-  background: #000
+  background: #000;
+  top: 25%;
+  left: 25%;
+  bottom: 25%;
+  right: 25%;
+  margin: 10px;
+  margin-left:350px;
 }
 
 .photo {
