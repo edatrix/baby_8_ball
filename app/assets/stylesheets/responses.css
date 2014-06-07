@@ -1,0 +1,15 @@
+.image {
+  width: 700px;
+  height: 700px;
+  border-radius: 2050px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  background: #000
+}
+
+.photo {
+  padding-top: 140px;
+  text-align: center;
+}
