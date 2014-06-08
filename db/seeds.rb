@@ -1,8 +1,8 @@
-responses = [ {title: "i_cannot", description: "i can't even.", image: "shape.png"},
+responses = [ {title: "i_cannot", description: "i can't even.", image: "mommy.png"},
   {title: "absolutely", description: "without a doubt.", image: "chin_hand.png"},
   {title: "no", description: "this is a joke, right?", image: "furrowed.png"},
   {title: "poop", description: "hang on, i'm pooping.", image: "gross.png"},
-  {title: "bored", description: "please bore someone else with your dull question.", image: "yawn.png"},
+  {title: "bored", description: "please bore someone else with your question.", image: "yawn.png"},
   {title: "annoyed", description: "how many times do i have to say 'no'?", image: "tongue.png"},
   {title: "lucky", description: "only if you're lucky.", image: "chill.png"},
   {title: "skeptical", description: "i'm not sure you really want to know the answer to this question", image: "whut.png"},
@@ -15,7 +15,7 @@ responses = [ {title: "i_cannot", description: "i can't even.", image: "shape.pn
   {title: "no_chance", description: "not a chance", image: "sleepy.png"},
   {title: "later", description: "the answer is yours for $10.", image: "smirk.png"},
   {title: "waaah", description: "i can't take another question!", image: "waaah.png"},
-  {title: "yes/no", description: "yes, no, whatever validation you need to feel good.", image: "blah.png"},
+  {title: "yes/no", description: "whatever you want, i am here to validate you.", image: "blah.png"},
   {title: "seriously", description: "seriously?", image: "not_amused.png"}
    ]
 

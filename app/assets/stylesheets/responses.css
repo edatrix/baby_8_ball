@@ -15,3 +15,14 @@
   padding-top: 140px;
   text-align: center;
 }
+
+.response-text {
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  margin: 5px;
+  left: 25%;
+  right: 25%;
+  width: 495px;
+  margin-left: 105px;
+}
