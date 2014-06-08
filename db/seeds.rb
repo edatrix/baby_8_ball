@@ -1,4 +1,4 @@
-responses = [ {title: "i_cannot", description: "i can't even.", image: "mommy.png"},
+responses = [ {title: "i_cannot", description: "i can't even.", image: "shape.png"},
   {title: "absolutely", description: "without a doubt.", image: "chin_hand.png"},
   {title: "no", description: "this is a joke, right?", image: "furrowed.png"},
   {title: "poop", description: "hang on, i'm pooping.", image: "gross.png"},
