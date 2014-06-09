@@ -16,7 +16,12 @@ responses = [ {title: "i_cannot", description: "i can't even.", image: "mommy.pn
   {title: "later", description: "the answer is yours for $10.", image: "smirk.png"},
   {title: "waaah", description: "i can't take another question!", image: "waaah.png"},
   {title: "yes/no", description: "whatever you want, i am here to validate you.", image: "blah.png"},
-  {title: "seriously", description: "seriously?", image: "not_amused.png"}
+  {title: "seriously", description: "seriously?", image: "not_amused.png"},
+  {title: "smile", description: "nothing would make me happier :)", image: "smile.png"},
+  {title: "stoic", description: "i'd tell you, but then i'd have to kill you.", image: "stoic.png"},
+  {title: "ask_again", description: "can't you see i'm busy?  ask again in 5 minutes.", image: "sunlamp.png"},
+  {title: "huh?", description: "i'm not sure we have enough time for my response.", image: "uncertain.png"},
+  {title: "mind_body", description: "my mind's telling me no, but my body...my bodaaayyy...", image: "relaxed.png"}
    ]
 
 responses.each do |response|
