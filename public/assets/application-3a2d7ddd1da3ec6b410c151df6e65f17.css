@@ -1,0 +1,70 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+
+
+ */
+
+
+.app_header {
+  font-family: 'Comfortaa', cursive;
+  font-size: 75px;
+  text-align: center;
+  padding: 10px;
+}
+
+.main {
+  text-align: center;
+  padding: 10px;
+}
+
+.footer {
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+}
+.response {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  font-size: 16px;
+}
+
+.instructions {
+  font-family: 'Codystar', cursive;
+  font-size: 20px;
+}
+.image {
+  width: 700px;
+  height: 700px;
+  border-radius: 2050px;
+  background: #000;
+  top: 25%;
+  left: 25%;
+  bottom: 25%;
+  right: 25%;
+  margin: 10px;
+  margin-left:350px;
+}
+
+.photo {
+  padding-top: 140px;
+  text-align: center;
+}
+
+.response-text {
+  font-family: 'Codystar', cursive;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin: 5px;
+  left: 25%;
+  right: 25%;
+  width: 495px;
+  margin-left: 105px;
+}
