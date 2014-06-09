@@ -12,9 +12,6 @@
  *= require_tree .
  */
 
-//= depend_on_asset "ball.png"
-//= depend_on_asset "favicon.ico"
-
 .app_header {
   font-family: 'Comfortaa', cursive;
   font-size: 75px;
