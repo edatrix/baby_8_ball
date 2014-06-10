@@ -1,4 +1,4 @@
-![baby8ball](public/images/baby8ball_header.png)
+![baby8ball](/public/images/baby8ball_header.png)
 
 Baby 8 Ball is an independent project by lauren spath luhring.  Click the 8 in the header to shake the ball...baby knows all!
 
